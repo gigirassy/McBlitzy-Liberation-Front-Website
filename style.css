@@ -1,33 +1,33 @@
 @media (prefers-color-scheme: dark){
 	body {
-		background:#00;
-		color: #FF;
+		background:#000000;
+		color: #FFFFFF;
 	}
 	a {
-		color: #ff;
+		color: #ffffff;
 	}
 	a.button {
   		padding: 1px 6px;
    	 	border-radius: 5px;
-    		color: #00;
-    		background-color: #ff;
+    		color: #000000;
+    		background-color: #ffffff;
     		text-decoration: none;
 	}
 }
 
 @media (prefers-color-scheme: light){
 	body {
-		background:#FF;
-		color: #42;
+		background:#FFFFFF;
+		color: #424242;
 	}
 	a {
-		color: #42;
+		color: #424242;
 	}
 	a.button {
   		padding: 1px 6px;
    	 	border-radius: 5px;
-    		color: #ff;
-    		background-color: #00;
+    		color: #ffffff;
+    		background-color: #000000;
     		text-decoration: none;
 	}
 }
