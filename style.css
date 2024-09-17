@@ -41,3 +41,7 @@ body {
   padding: 0 8px;
   text-align:center;
 }
+
+.dropdowns {
+  line-height: 90%;
+}
